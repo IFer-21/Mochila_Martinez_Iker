@@ -1,0 +1,8 @@
+ip privada 127.0.0.1
+
+ip publcia 187.189.33.36
+
+direccion mac 08:00:27:db:98:6f
+
+La ip publica es la misma que la computadora host
+La ip privda es diferente  
