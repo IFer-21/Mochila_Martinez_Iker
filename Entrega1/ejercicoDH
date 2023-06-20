@@ -1,0 +1,17 @@
+mkdir Peliculas
+cd peliculas
+mkdir Infantiles Accion Terror Comedia Romanticas
+cd Infantiles 
+touch Intenzamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+cd ..
+cd Accion 
+touch "Smooth criminal".txt "Diario de una pasion".js "El hexorcista".xls Cars.jpg
+cd ..
+cd Terror
+touch "La dama y el bagavundo".png "Yo antes de ti".xls "Que paso ayer".pdf "We will rock you".js
+cd .. 
+cd Comedia
+touch Madagaskar.js "Orgullo y prejuicio".txt IT.xls "Mision imposible".png
+cd ..
+cd Romanticas
+touch Pocahontas.jpg Annabelle.js "Los vengadores".js "La mascara".js
